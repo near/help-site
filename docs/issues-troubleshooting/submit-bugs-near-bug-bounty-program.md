@@ -10,7 +10,7 @@ At NEAR, we prioritize the security and integrity of our ecosystem. We greatly v
 
 1. **Access the Bug Bounty Program Platform:**
 
-- Visit the NEAR Bug Bounty Program platform hosted on HackenProof: [NEAR Bug Bounty Program]([https://hackenproof.com/near](https://hackenproof.com/near))
+- Visit the NEAR Bug Bounty Program platform hosted on HackenProof: [NEAR Bug Bounty Program](https://hackenproof.com/near)
 
 - You'll be directed to the Bug Bounty Program page, where you can submit your report.
 

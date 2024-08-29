@@ -37,7 +37,7 @@ Internal Server Errors can occur for various reasons, including software glitche
 
 To get help with an Internal Server Error or any related issue, please follow these steps:
 
--   Visit our Help Center at [NEAR Help Center](/hc/en-us).
+-   Visit our Help Center at [NEAR Help Center](#).
     
 -   In the bottom right-hand corner of the page, you'll find a email box for support. Click on it.
     
