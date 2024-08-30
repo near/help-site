@@ -66,6 +66,7 @@ const config = {
         logo: {
           alt: 'NEAR',
           src: 'img/logo.svg',
+          srcDark: 'img/near_logo_white.svg',
         },
         items: [
           {
